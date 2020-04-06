@@ -30,9 +30,9 @@ This project could be extended to any pre-trained machine learning model, such a
 
 ### How it works
 
-Makefile -  Build automation.
-App.py - Flask App to return API calls.
-Dockerfile - Creation of Docker Image
-requirements.txt - for dependencies
-.circleci - For CI
+- Makefile -  Build automation.
+- App.py - Flask App to return API calls.
+- Dockerfile - Creation of Docker Image
+- requirements.txt - for dependencies
+- .circleci - For CI
 
