@@ -26,7 +26,7 @@ This project could be extended to any pre-trained machine learning model, such a
 
 
 ### Calling the API
-1. Run ``./make_prediction.sh` to call the API.
+1. Run `./make_prediction.sh` to call the API.
 
 ### How it works
 
@@ -35,4 +35,5 @@ This project could be extended to any pre-trained machine learning model, such a
 - Dockerfile - Creation of Docker Image
 - requirements.txt - for dependencies
 - .circleci - For CI
+- deployment.yaml for Kubernetes Deployment configuration
 
